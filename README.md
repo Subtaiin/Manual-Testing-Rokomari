@@ -1,7 +1,7 @@
 
-# Manual Testing (BD Shop)
+## Manual Testing (Rokomari.com)
 
-This repository contains test artifacts for the Manual Testing of the BD Shop project, an ecommerce web application. The focus of this testing effort has been on the sign up and sign in modules. The repository includes mindmaps, test execution reports, test cases, and test metrics to effectively plan, execute, and track the testing activities for the BD Shop application.
+Welcome to the Manual Testing (Rokomari.com) project repository! This repository contains test artifacts for the manual testing of Rokomari.com—an online bookstore and variety store web application. The focus of this testing effort has been on the Registration and Sign-in modules. The repository includes test cases and a test execution report to effectively plan, execute, and track the testing activities for Rokomari.com.
 
 
 ## Table of Contents
@@ -12,17 +12,15 @@ This repository contains test artifacts for the Manual Testing of the BD Shop pr
 - Contributing
 - FAQ
 ## Introduction
-Manual testing plays a vital role in ensuring the quality of the BD Shop ecommerce web application. This repository serves as a centralized resource for storing and organizing test artifacts related to the sign up and sign in modules. The test artifacts include mindmaps, test execution reports, test cases, and test metrics.
+Manual testing plays a critical role in ensuring the quality and reliability of Rokomari.com—an online bookstore and variety store web application. This repository serves as a centralized resource for storing and organizing test artifacts related to the Registration and Sign-in modules. The test artifacts include test cases and a test execution report.
 ## Project Overview
-The BD Shop project is an ecommerce web application aimed at providing a seamless shopping experience to users in Bangladesh. The application allows users to sign up for an account, sign in to their existing account, and perform various actions such as browsing products, adding items to the cart, and making purchases.
+Rokomari.com is a web application that offers an extensive collection of books and a variety of products. It provides users with the ability to browse, search, and purchase books, as well as other items available in the online store. The Registration and Sign-in modules are key components of the application, enabling users to create accounts, log in, and access personalized features.
 ## Test Artifacts
 The following test artifacts are included in this project:
-- Mindmaps
-- Test Execution Report
 - Test Cases
-- Test Metrics
+- Test Execution Report
 ## Contributing
-Contributions are welcome to enhance the repository with additional test artifacts, such as test cases, mindmaps, test execution reports, or test metrics, related to other modules of the BD Shop application. If you have any improvements or suggestions, please feel free to open an issue or submit a pull request. Please follow the repository's code of conduct and licensing terms.
+Contributions are welcome to enhance the repository with additional test artifacts, such as test cases, test execution reports, or other related modules of the Rokomari.com application. If you have any improvements or suggestions, please feel free to open an issue or submit a pull request. Your contributions will help ensure the overall quality and reliability of Rokomari.com.
 ## FAQ
 
 #### Q1: How can I contribute to this project?
